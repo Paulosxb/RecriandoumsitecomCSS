@@ -1,16 +1,22 @@
 .post {
-
+    margin: 0% 4% 0% 4%;
 }
 
 .post-container {
-
+    width: 70%;
+    height: 100%;
+    margin: 0% auto 0% auto;
+    background-color: #fffafa;
+    font-family: 'Montserrat', Courier, monospace;
 }
 
 .date {
-
+    color: #008080;
+    font-family: 'Roboto', Geneva, Tahoma, sans-serif;
+    font-weight: 900;
 }
 
 .post-content {
-
+    font-family: 'Open Sans', Courier, monospace;
 }
 
